@@ -1,2 +1,8 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Projeto desenvolvido com o Java 7, utilizando apenas o Maven e o Junit.
+
+Para ver o Ranking das partidas, basta executar a classe Principal. Esta classe irá ler os dados 
+do arquivo log.txt, que se encontra na raiz do projeto.
+
+OBS: Gostaria de ter feito alguns itens da seção Bônus, mas terá que ficar pra próxima, pois estes dias estão um pouco corridos.
+
+Obrigado!
